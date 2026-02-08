@@ -2,3 +2,8 @@ modulo_backend/laboratorios/polo-server-express/node_modules
 modulo_backend/laboratorios/monitoramento-logistico-express/node_modules
 modulo_backend/laboratorios/lab04-crud-sensores/node_modules
 modulo_backend/laboratorios/api-users/node_modules
+modulo_backend/laboratorios/gerenciamento-lojas/node_modules
+modulo_backend/laboratorios/gerenciamento-lojas/.env
+modulo_backend/laboratorios/gerenciamento-lojas/logs
+modulo_backend/laboratorios/gerenciamento-lojas/dockerfile
+modulo_backend/laboratorios/gerenciamento-lojas/dist
